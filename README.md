@@ -1,98 +1,24 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@onuraytoroslu 
-onuraytoroslu
-/
-onuraytoroslu
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-onuraytoroslu
-/
-README.md
-in
-main
-onuraytoroslu/onuraytoroslu is a special repository: its README.md will appear on your profile!
+# 💫 About Me:
+🔭 I’m currently studying at IZTECH<br>👯 I want to work on backend technologies<br>🌱 I’m currently learning SQL<br>⚡ Fun fact I have been in Germany 2022 Spring Semester as an Erasmus Student
 
- 
 
-Spaces
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuraytoroslu) 
 
-2
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onuraytoroslu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onuraytoroslu&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraytoroslu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Soft wrap
-1
-### Hi there 👋
-2
-​
-3
-<!--
-4
-**onuraytoroslu/onuraytoroslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-5
-​
-6
-Here are some ideas to get you started:
-7
-​
-8
-- 🔭 I’m currently working on ...
-9
-- 🌱 I’m currently learning ...
-10
-- 👯 I’m looking to collaborate on ...
-11
-- 🤔 I’m looking for help with ...
-12
-- 💬 Ask me about ...
-13
-- 📫 How to reach me: ...
-14
-- 😄 Pronouns: ...
-15
-- ⚡ Fun fact: ...
-16
--->
-17
-​
-Dosya seçilmedi
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
-@onuraytoroslu
-Commit changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
- Commit directly to the main branch.
- Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-New onuraytoroslu/onuraytoroslu is now a special repository: its README.md will appear on your profile!
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=onuraytoroslu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=onuraytoroslu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=onuraytoroslu&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
